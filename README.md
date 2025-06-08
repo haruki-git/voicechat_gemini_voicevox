@@ -32,8 +32,7 @@ pip install flet
 pip install flet-audio
 pip install python-dotenv
 pip install google-generativeai
-
-
+```
 
 □概要  
 main.pyを起動すると、ダウンロードしたVOICEVOXとアプリが起動します。  
