@@ -1,7 +1,7 @@
-□動作環境  
+## □動作環境  
 Python3.11以上
 
-□前準備
+## □前準備
 
 〇VOICEBOXのダウンロード  
 公式サイトから取得  
@@ -34,7 +34,7 @@ pip install python-dotenv
 pip install google-generativeai
 ```
 
-□概要  
+## □概要  
 main.pyを起動すると、ダウンロードしたVOICEVOXとアプリが起動します。  
 Geminiを使用する時と変わらずで、テキストベースでやり取りです。  
 返答に選択したキャラクターの音声がつきます。
